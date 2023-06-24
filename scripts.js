@@ -1,7 +1,0 @@
-sayHi();
-function sayHi() {
-  let age = 21;
-  console.log(name);
-  console.log(age);
-  var name = "Lydia";
-}
